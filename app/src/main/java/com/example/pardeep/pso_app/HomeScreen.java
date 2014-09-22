@@ -103,6 +103,7 @@ public class HomeScreen extends Activity {
 
     public void ReadRelays()
     {
+        int mum;
         URL url = null;
         URLConnection conn = null;
 
