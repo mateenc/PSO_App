@@ -44,6 +44,7 @@ public class HomeScreen extends Activity {
     public void PopulateFields()
     {
         // pardeep testing
+        // pardee ptesting
         ReadRelays();
         String[] powers = new String[4];
 
