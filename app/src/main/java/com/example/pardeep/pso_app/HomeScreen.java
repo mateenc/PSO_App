@@ -38,6 +38,7 @@ public class HomeScreen extends Activity {
         setContentView(R.layout.activity_home_screen);
         Log.d("Message", "App started");
         PopulateFields();
+        //pardeep testing
     }
 
     public void PopulateFields()
